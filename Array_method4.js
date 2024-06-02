@@ -26,3 +26,7 @@ const colors1=["black","orange","white","blue","black"];
 const c=colors1.lastIndexOf("black");
 console.log(c);
 
+//includes
+console.log(colors1.includes("orange"));
+
+
